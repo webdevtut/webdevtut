@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevtut&label=Profile%20views&color=0e75b6&style=flat" alt="webdevtut" /> </p>
 
-- 🔭 I’m currently working on [Clothify (React Redux Clothing website)](https://clothifyy.vercel.app/)
+- 🔭 I’m currently working on [Clothify (React Redux Clothing website)](https://redux-clothify.netlify.app/)
 
 - 🌱 I’m currently learning **React - Redux, Angular- rxjs**
 
