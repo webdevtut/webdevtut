@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Clothify (React Redux Clothing website)](https://redux-clothify.netlify.app/)
 
-- 🌱 I’m currently learning **React - Redux, Angular- rxjs**
+- 🌱 I’m currently exploring **Angular 19, React - Redux, Preact (3kB alternative to React), Next.js, Three.js**
 
 - 👯 I’m looking to collaborate on [Detour (NodeJs, MongoDB Tours and Travel Website)](https://d-tour.up.railway.app/)
 
