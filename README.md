@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently exploring **Angular 20 and its new features, AngularThree, and modern UI frameworks**
+- 🌱 I’m currently exploring **the latest in Angular, emerging JavaScript frameworks, and modern UI technologies**
 
 - 👨‍💻 All of my projects are available at [tushar-3d-portfolio.vercel.app](https://tushar-3d-portfolio.vercel.app/)
 
