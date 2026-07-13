@@ -15,6 +15,9 @@ Building modern web applications with **Angular, React, Vue, Three.js, and Node.
 * 📫 **[tusharlookingforjob@gmail.com](mailto:tusharlookingforjob@gmail.com)**
 
 ---
+## 🚩 Dev Blog stats
+
+<a href="https://daily.dev/tusharkadam13"><img src="https://api.daily.dev/devcards/v2/W1c58DVmJEtphCrAYXbX5.png?r=ajb&type=wide" width="652" alt="Tushar Kadam's Dev Card"/></a>
 
 ## 🚀 Featured Projects
 
