@@ -10,7 +10,7 @@ Building modern web applications with **Angular, React, Vue, Three.js, and Node.
 
 * 🌱 Exploring modern frontend technologies and JavaScript ecosystems
 * 💬 Ask me about **Angular, JavaScript, TypeScript, React, Node.js**
-* 🌐 Portfolio: https://tushar-3d-portfolio.vercel.app/
+* 🌐 🐉 Portfolio 2026 Update: Added a 3D Animated Dragon 🐲 + Dragon Core ✨ + TypeScript ⚡: https://tushar-3d-portfolio.vercel.app/
 * 📝 Blog: https://blogfeed.onrender.com/
 * 📫 **[tusharlookingforjob@gmail.com](mailto:tusharlookingforjob@gmail.com)**
 
