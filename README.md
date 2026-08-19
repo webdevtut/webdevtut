@@ -2,7 +2,7 @@
 
 ### Frontend Engineer
 
-Building modern web applications with **Angular, React, Vue, Three.js, and Node.js**.
+Building modern web applications with **Angular, React, TypeScript, Three.js, and Node.js**.
 
 ---
 
