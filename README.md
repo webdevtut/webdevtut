@@ -21,10 +21,10 @@ Building modern web applications with **Angular, React, TypeScript, Three.js, an
 
 ## 🚀 Featured Projects
 
-* 🛍️ **Clothify** — https://redux-clothify.netlify.app/
-* ✍️ **BlogFeed** — https://blogfeed.onrender.com/
-* 📦 **Reusable UI Library** — https://www.npmjs.com/package/reusable-ui-library
-
+* 🛍️ **Clothify React Typed +Saga + Styled components** — https://redux-clothify.netlify.app/
+* ✍️ **BlogFeed (MERN stack App)** — https://blogfeed.onrender.com/
+* 📦 **Reusable UI Library (Angular 16)** — https://www.npmjs.com/package/reusable-ui-library
+*  **Happenstance (Angular 13 Full-stack App)** — https://happenstance.up.railway.app/
 ---
 
 ## 🤝 Connect
