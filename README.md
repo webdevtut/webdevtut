@@ -1,30 +1,38 @@
 # Hi 👋 I'm Tushar Kadam
 
-### Frontend Engineer
+### Frontend Engineer | Full-Stack JavaScript Engineer | Angular Developer
 
-Building modern web applications with **Angular, React, TypeScript, Three.js, and Node.js**.
+💼 Looking for job opportunities in Angular, React , Frontend, and Full-Stack JavaScript roles.
 
 ---
 
 ## 👨‍💻 About Me
 
+* 🚀 Frontend-focused engineer specializing in **Angular, JavaScript, and TypeScript**
 * 🌱 Exploring modern frontend technologies and JavaScript ecosystems
 * 💬 Ask me about **Angular, JavaScript, TypeScript, React, Node.js**
 * 🌐 Portfolio: [🐉 3D Animated Portfolio — 2026 Update: Dragon + Dragon Core + TypeScript](https://tushar-3d-portfolio.vercel.app/)
+* 🧪 [NEW + 2026] [⚡ Angular 22 Experimental Boilerplate — Angular + NgRx + PrimeNG + Tailwind](https://boilerplate-22.vercel.app/)
+* 🎓 [NEW + 2026] [📚 Angular 21 — Udemy Course & Certificate](https://www.udemy.com/certificate/UC-c2de7b84-1629-4546-bcff-71cea20cd9ec/)
+* 💼 **Looking for job opportunities** in Angular, Frontend, and Full-Stack JavaScript roles
 * 📝 Blog: https://blogfeed.onrender.com/
 * 📫 **[tusharlookingforjob@gmail.com](mailto:tusharlookingforjob@gmail.com)**
 
 ---
-## 🚩 Dev Blog stats
 
-<a href="https://daily.dev/tusharkadam13"><img src="https://api.daily.dev/devcards/v2/W1c58DVmJEtphCrAYXbX5.png?r=ajb&type=wide" width="652" alt="Tushar Kadam's Dev Card"/></a>
+## 🚩 Dev Blog Stats
 
-## 🚀 Featured Projects
+<a href="https://daily.dev/tusharkadam13">
+  <img src="https://api.daily.dev/devcards/v2/W1c58DVmJEtphCrAYXbX5.png?r=ajb&type=wide" width="652" alt="Tushar Kadam's Dev Card"/>
+</a>
+
+## 🔬 Projects & Technical Explorations
 
 * 🛍️ **Clothify React Typed +Saga + Styled components** — https://redux-clothify.netlify.app/
 * ✍️ **BlogFeed (MERN stack App)** — https://blogfeed.onrender.com/
-* 📦 **Reusable UI Library (Angular 16)** — https://www.npmjs.com/package/reusable-ui-library
-*  **Happenstance (Angular 13 Full-stack App)** — https://happenstance.up.railway.app/
+* 📦 **Reusable UI Library (Angular 16 + Schematics + Verdaccio)** — https://www.npmjs.com/package/reusable-ui-library
+* 💌**Happenstance (Angular 13 + .Net + PostGres)** — https://happenstance.up.railway.app/
+
 ---
 
 ## 🤝 Connect
